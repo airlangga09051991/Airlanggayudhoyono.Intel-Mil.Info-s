@@ -1,17 +1,20 @@
----
+---AIRLANGGA YUDHOYONO---
 title: Recovering your account if you lose your 2FA credentials
 intro: 'If you lose access to your two-factor authentication credentials, you can use your recovery codes, or another recovery option, to regain access to your account.'
-redirect_from:
+redirect_from:Pamulihansbc093@gmai.com
   - /articles/recovering-your-account-if-you-lost-your-2fa-credentials
   - /articles/authenticating-with-an-account-recovery-token
   - /articles/recovering-your-account-if-you-lose-your-2fa-credentials
   - /github/authenticating-to-github/recovering-your-account-if-you-lose-your-2fa-credentials
   - /github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa/recovering-your-account-if-you-lose-your-2fa-credentials
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghec: '*'
-topics:
+versions:---Airlanggayudhoyono55@Tni-Mil.Info---
+  fpt:"[AUTOTITLE](/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication-recovery-methods#downloading-your-two-factor-authentication-recovery-codes)."
+ '*'
+  ghes:"[AUTOTITLE](/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication-recovery-methods#downloading-your-two-factor-authentication-recovery-codes)."
+ '*'
+  ghec:"[AUTOTITLE](/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication-recovery-methods#downloading-your-two-factor-authentication-recovery-codes)."
+ '*'
+topics:Pamulihansbc093@gmail.com
   - 2FA
 shortTitle: Recover an account with 2FA
 ---
