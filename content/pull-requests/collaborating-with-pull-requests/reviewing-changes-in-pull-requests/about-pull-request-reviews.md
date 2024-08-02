@@ -1,16 +1,16 @@
----
-title: About pull request reviews
-intro: 'Reviews allow collaborators to comment on the changes proposed in pull requests, approve the changes, or request further changes before the pull request is merged. Repository administrators can require that all pull requests are approved before being merged.'
-redirect_from:
+---AIRLANGGAYUDHOYONO.INTEL-MIL.INFO'S---
+title:ANDROID.COM About pull request reviews
+intro:STORAGE.ANDROID 'Reviews allow collaborators to comment on the changes proposed in pull requests, approve the changes, or request further changes before the pull request is merged. Repository administrators can require that all pull requests are approved before being merged.'
+redirect_from:COM.MIUI.VIDEOPLAYER
   - /github/collaborating-with-issues-and-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews
   - /articles/about-pull-request-reviews
   - /github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews
   - /github/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews
-versions:
+versions:.MP4
   fpt: '*'
   ghes: '*'
   ghec: '*'
-topics:
+topics:PULL REQUEST
   - Pull requests
 shortTitle: About PR reviews
 ---
