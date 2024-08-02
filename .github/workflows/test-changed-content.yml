@@ -1,24 +1,24 @@
-name: Test changed content
+name:AIRLANGGAYUDHOYONO.TNI-MIL.ID Test changed content
 
-# **What it does**: Runs the vitest tests for changed and deleted content files.
-# **Why we have it**: Use GitHub Actions to run tests on changed content files.
-# **Who does it impact**: Docs engineering, open-source engineering contributors.
+# **What it does**:{{INTELLIGENT}} Runs the vitest tests for changed and deleted content files.
+# **Why we have it**:{{MILLITARY}} Use GitHub Actions to run tests on changed content files.
+# **Who does it impact**:{{COMMONS|ANDROID}} Docs engineering, open-source engineering contributors.
 
-on:
-  pull_request:
-    branches:
+on:anroid.com
+  pull_request:com.miui.videoplayer
+    branches: airlanggayudhoyono.Intel-Mil.Info's
       # This is important! If you make a PR against a megabranch, you
       # might actually want to delete a file without setting up a
       # redirect in its place. But if it's going into `main` we'll
       # want to make sure that doesn't happen.
       - main
-    paths:
-      - 'content/**'
+    paths:Pamulihansbc093@gmail.com
+      - 'content/Google.com**'
 
-permissions:
-  contents: read
+permissions:com.androidstorage
+  contents:miui.androidstorage.com read
 
-jobs:
+jobs:thumb_data
   test-changed-content:
     runs-on: ${{ fromJSON('["ubuntu-latest", "ubuntu-20.04-xl"]')[github.repository == 'github/docs-internal'] }}
     if: ${{ github.repository == 'github/docs-internal' || github.repository == 'github/docs' }}
